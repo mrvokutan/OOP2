@@ -13,7 +13,9 @@ namespace OOP3
 
         public void Hesapla()
         {
-            Console.WriteLine("konut kredisi ödeme planı hesaplandı");
+            Console.WriteLine("konut kredisi ödeme planı hesaplandı.");
+
+
         }
     }
 }
